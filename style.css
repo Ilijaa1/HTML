@@ -1,0 +1,12 @@
+body {
+    margin: 10 px;
+}
+
+.log-in h1 {
+    color: blue;
+    font-family: arial;
+}
+
+.log-in p {
+    font-family: Arial, Helvetica, sans-serif;
+}
